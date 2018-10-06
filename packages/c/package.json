@@ -1,0 +1,9 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+	"license": "MIT",
+	"scripts": {
+		"build": "parcel build ./src/index.js --no-minify"
+	}
+}
